@@ -1,0 +1,17 @@
+
+#canvasContainer 
+{
+ width: 100% ; 
+ text-align: center; 
+}
+
+canvas 
+{ 
+	border: 1px solid black; 
+	display: block;
+}
+#descContainer 
+{
+	border: 1px solid black;
+	background-color: #01DFD7;
+}
